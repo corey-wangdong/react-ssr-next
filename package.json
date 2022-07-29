@@ -1,0 +1,27 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "基于 Next 创建 React 服务端渲染应用",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corey-wangdong/react-ssr-next.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corey-wangdong/react-ssr-next/issues"
+  },
+  "homepage": "https://github.com/corey-wangdong/react-ssr-next#readme",
+  "dependencies": {
+    "cowsay-browser": "^1.1.8",
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
